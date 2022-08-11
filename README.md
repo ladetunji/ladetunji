@@ -27,9 +27,7 @@ How to build e-commerce websites with WordPress, themes and plugins I love and r
     else { console.log ("B.Eng. Mechanical Engineering from Ahmadu Bello University, Zaria"); } 
     }
 ```
-#### 📫 How to reach me: <a href="https://wa.me/2349091901021/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-%2366FF00.svg?&style=flat&logo=whatsapp&logoColor=white" /></a>
-<a href="https://twitter.com/jebuboy/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ladetunji-osibanjo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+#### 📫 How to reach me: <a href="https://wa.me/2349091901021/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/whatsapp-%2366FF00.svg?&style=flat&logo=whatsapp&logoColor=white" /></a> <a href="https://twitter.com/jebuboy/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ladetunji-osibanjo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 
 #### 😄 Pronouns: He that is in me is greater than he that is in the world!
 
